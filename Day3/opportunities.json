@@ -1,0 +1,20 @@
+{
+    "BIT-AI-01": {
+        "name": "BIT AI Innovation Sprint",
+        "status": "OPEN",
+        "deadline": "5 October 2026",
+        "eligibility": "2nd to 4th year UG students"
+    },
+    "BIT-DEV-02": {
+        "name": "Campus Developer Challenge",
+        "status": "CLOSED",
+        "deadline": "28 September 2026",
+        "eligibility": "3rd to 4th year UG students"
+    },
+    "BIT-GEN-03": {
+        "name": "Generative AI Campus Challenge",
+        "status": "OPEN",
+        "deadline": "12 October 2026",
+        "eligibility": "All UG students"
+    }
+}
